@@ -122,7 +122,7 @@ world-settings:
       villagers-work-immunity-after: 100
       villagers-work-immunity-for: 20
       villagers-active-for-panic: true
-      tick-inactive-villagers: true
+      tick-inactive-villagers: false
       ignore-spectators: false
     thunder-chance: 100000
     merge-radius:
